@@ -77,7 +77,7 @@
    `(org-todo ((t  (:foreground ,fg))))
    `(org-verse ((t (:inherit org-block :slant italic))))
    `(org-table ((t (:foreground, fg))))
-   `(region ((t (:background "#eeeee8" :foreground ,fg))))
+   `(region ((t (:background "#cdcdbc" :foreground ,fg))))
    `(slime-repl-inputed-output-face ((t (:foreground ,fg))))
    `(whitespace-line ((t (:background ,bg-highlight-2 :foreground ,fg))))
 
